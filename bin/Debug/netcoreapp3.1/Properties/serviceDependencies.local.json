@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.KeyVault/vaults/Eunoiavault",
+      "type": "secrets.keyVault",
+      "connectionId": "EunoiaEnvironment",
+      "secretStore": null
+    }
+  }
+}

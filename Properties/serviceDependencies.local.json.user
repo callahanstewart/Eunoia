@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-12-08T05:27:12.1376943Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-12-08T05:28:46.749471Z"
+    }
+  },
+  "parameters": {
+    "secrets1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "EunoiaWeb"
+    },
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "9e4d351f-6fb4-4f38-bd7f-627a4cb1c714"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "MLSMTestResources"
+    },
+    "secrets1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "9e4d351f-6fb4-4f38-bd7f-627a4cb1c714"
+    }
+  }
+}
